@@ -2,8 +2,8 @@
   <div id="app">
     <nav>
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-      <router-link to="/welcome">Welcome</router-link>
+      <router-link to="/about">AboutUs</router-link>
+      <router-link to="/welcome">Welcome 陈珉智</router-link>
     </nav>
     <router-view/>
   </div>
